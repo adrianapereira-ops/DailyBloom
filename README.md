@@ -22,7 +22,8 @@ Aplicación web para cuidar tus hábitos diarios, encontrar tu equilibrio y cele
 
 | Bienestar | Progreso |
 |---|---|
-| ![Bienestar](screenshots/bienestar.png) | ![Progreso](screenshots/progreso.png) |
+|<img width="727" height="403" alt="image" src="https://github.com/user-attachments/assets/d09f0d8f-9a6c-468d-82eb-1574f54d5662" />
+ | <img width="734" height="406" alt="image" src="https://github.com/user-attachments/assets/c5070847-63a9-42b3-96c7-80a809ccaaa4" />|
 
 ## Tecnologías
 
