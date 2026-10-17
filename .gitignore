@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+venv/
+.env
+.DS_Store
+users.json
+habits_*.json
