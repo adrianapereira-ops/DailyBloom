@@ -14,10 +14,11 @@ Aplicación web para cuidar tus hábitos diarios, encontrar tu equilibrio y cele
 
 ## Capturas
 
-| Inicio | Calendario |
+| Inicio | Dashboard |
 |---|---|
-|<img width="947" height="431" alt="image" src="https://github.com/user-attachments/assets/577602ba-7bf9-46a5-acf2-1fd33723c9a9" />
- | ![Calendario](screenshots/calendario.png) |
+
+ |<img width="911" height="409" alt="image" src="https://github.com/user-attachments/assets/6bc7503d-a717-455c-aac2-192566f19dd1" />
+ ||<img width="935" height="413" alt="image" src="https://github.com/user-attachments/assets/9c6fc113-d7a7-4680-82a0-82e7d5b25fdc" />|
 
 | Bienestar | Progreso |
 |---|---|
