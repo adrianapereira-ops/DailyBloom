@@ -2,8 +2,6 @@
 
 Aplicación web para cuidar tus hábitos diarios, encontrar tu equilibrio y celebrar cada pequeño avance. Hecha con **Python** y **Streamlit**.
 
-![Dashboard](screenshots/dashboard.png)
-
 ## Funcionalidades
 
 - **Cuentas de usuario**: crea tu cuenta con nombre y contraseña; cada usuario tiene sus propios datos.
@@ -18,7 +16,8 @@ Aplicación web para cuidar tus hábitos diarios, encontrar tu equilibrio y cele
 
 | Inicio | Calendario |
 |---|---|
-| ![Inicio](screenshots/inicio.png) | ![Calendario](screenshots/calendario.png) |
+|<img width="947" height="431" alt="image" src="https://github.com/user-attachments/assets/577602ba-7bf9-46a5-acf2-1fd33723c9a9" />
+ | ![Calendario](screenshots/calendario.png) |
 
 | Bienestar | Progreso |
 |---|---|
